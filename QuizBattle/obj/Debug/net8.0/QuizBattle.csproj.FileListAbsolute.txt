@@ -1,0 +1,15 @@
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/bin/Debug/net8.0/QuizBattle
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/bin/Debug/net8.0/QuizBattle.deps.json
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/bin/Debug/net8.0/QuizBattle.runtimeconfig.json
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/bin/Debug/net8.0/QuizBattle.dll
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/bin/Debug/net8.0/QuizBattle.pdb
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/QuizBattle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/QuizBattle.AssemblyInfoInputs.cache
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/QuizBattle.AssemblyInfo.cs
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/QuizBattle.csproj.CoreCompileInputs.cache
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/QuizBattle.sourcelink.json
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/QuizBattle.dll
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/refint/QuizBattle.dll
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/QuizBattle.pdb
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/QuizBattle.genruntimeconfig.cache
+/Users/koreanbadboy/Documents/Beo/Programmering skolan/RiderProjects/QuizBattle/QuizBattle/obj/Debug/net8.0/ref/QuizBattle.dll
